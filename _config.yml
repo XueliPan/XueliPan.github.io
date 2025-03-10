@@ -13,7 +13,7 @@ title                    : "Xueli Pan"
 title_separator          : "-"
 name                     : &name "Xueli Pan"
 description              : &description "Hi I am Xueli Pan, a PhD candidate at User Centric Data Science group at VU Amsterdam. My research interests include knowledge graphs, scholarly data mining and LLMs"
-url                      : https://XueliPan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://xuelipan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XueliPan/XueliPan.github.io"
 

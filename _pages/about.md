@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Xueli Pan, a PhD candidate in User Centric Data Science Group at VU Amsteram...
+Hi, I am Xueli Pan, a last-year PhD candidate in User Centric Data Science Group at VU Amsterdam.

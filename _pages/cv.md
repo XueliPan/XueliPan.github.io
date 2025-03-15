@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+# title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Artificial Intelligence \
+Vrije University Amsterdam, Amsterdam, Netherlands, 2019.9 - present 
+* M.S. in Information Science \
+Institute of Scientific and Technical Information of China, Beijing, China, 2016.9 - 2019.1
+* B.S. Library Science \
+Northeast Normal University, Changchun, China, 2010.9 - 2014.7
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Data Analyst User Growth (Full-time Internship), 2018.9 - 2019.1
+  * Beijing Didi Chuxing Technology Co., Ltd., Beijing, China 
+  * Duties includes: 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Data Analyst (Part-time Internship), 2018.3 - 2018.9
+  * John Wiley & Sons, Inc, Beijing, China 
+  * Duties included: 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Library Assistant (Full time), 2014.7 - 2015.9
+  * The Chinese University of Hong Kong, Shenzhen, China 
+  * Duties included: 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, SQL, Pandas, Numpy, PyTorch, Scikit-learn, Gensim,
+Transformers
+* LLMs: RAG implementation using GPT Assistant and LlamaIndex
+* Semantic web technologies: SPARQL, RDF, RDFS
+* Graph databased: Neo4j, GraphDB
+* Language: English, Mandarin, Cantonese, Dutch
 
 Publications
 ======
@@ -47,18 +47,27 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and Posters
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+Awards
+======
+* 3rd place in AI and I Hackathon 2024 (Munich): Co-Creativity between Humans and
+LLMs
+* Post-graduate Academic Scholarship (2nd Class) , 2016-2018, by Institute of
+Scientific and Technical Information of China, Beijing, China
+* Undergraduate Academic Scholarship (2nd Class) , 2012-2014, by Northeast Normal
+University, Changchun, China

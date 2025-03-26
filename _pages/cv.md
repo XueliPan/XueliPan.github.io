@@ -23,14 +23,21 @@ Work experience
 * Data Analyst User Growth (Full-time Internship), 2018.9 - 2019.1
   * Beijing Didi Chuxing Technology Co., Ltd., Beijing, China 
   * Duties includes: 
+  ** Monitored and analyzed product data to identify trends and insights, optimizing user experience and supporting sales targets.
+  ** Collected, processed, and analyzed user behavior data from multiple channels to develop comprehensive user profiles.
 
 * Data Analyst (Part-time Internship), 2018.3 - 2018.9
   * John Wiley & Sons, Inc, Beijing, China 
   * Duties included: 
+  ** Conducted comprehensive data analysis on Wiley journal database usage for all universities in China, providing insights into academic resource consumption.
+  ** Evaluated the cost-effectiveness of journal subscriptions, supporting data-driven decision-making for university libraries.
+  ** Identified key user behavior patterns and formulated strategies to optimize academic journal access and utilization.
 
 * Library Assistant (Full time), 2014.7 - 2015.9
   * The Chinese University of Hong Kong, Shenzhen, China 
   * Duties included: 
+  ** Perform copy cataloging of bibliographic records to enhance discoverability and equity of access to materials in the collection. This is achieved by using the Library’s ILS, OCLC Connexion, and other online tools to identify, edit, and import bibliographic records using Dewey Decimal Classification (DDC), Library of Congress Authorities (such as LC Subject Headings) and Resource Description and Access (RDA) standards.
+  ** Maintain the accuracy of holdings/records in OCLC to support Interlibrary Loan service.
   
 Skills
 ======

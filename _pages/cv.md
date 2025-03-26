@@ -36,8 +36,8 @@ Work experience
 * Library Assistant (Full time), 2014.7 - 2015.9
   * The Chinese University of Hong Kong, Shenzhen, China 
   * Duties included: 
-  * Perform copy cataloging of bibliographic records to enhance discoverability and equity of access to materials in the collection. This is achieved by using the Library’s ILS, OCLC Connexion, and other online tools to identify, edit, and import bibliographic records using Dewey Decimal Classification (DDC), Library of Congress Authorities (such as LC Subject Headings) and Resource Description and Access (RDA) standards.
-  * Maintain the accuracy of holdings/records in OCLC to support Interlibrary Loan service.
+      * Perform copy cataloging of bibliographic records to enhance discoverability and equity of access to materials in the collection. This is achieved by using the Library’s ILS, OCLC Connexion, and other online tools to identify, edit, and import bibliographic records using Dewey Decimal Classification (DDC), Library of Congress Authorities (such as LC Subject Headings) and Resource Description and Access (RDA) standards.
+      * Maintain the accuracy of holdings/records in OCLC to support Interlibrary Loan service.
   
 Skills
 ======

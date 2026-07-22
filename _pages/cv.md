@@ -20,6 +20,9 @@ Northeast Normal University, Changchun, China, 2010.9 - 2014.7
 
 Work experience
 ======
+* Visiting PhD Researcher, 2025.08 - 2025.10
+  * Open University, United Kingdom
+
 * Data Analyst User Growth (Full-time Internship), 2018.9 - 2019.1
   * Beijing Didi Chuxing Technology Co., Ltd., Beijing, China 
   * Duties includes: 

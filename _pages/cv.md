@@ -20,8 +20,18 @@ Northeast Normal University, Changchun, China, 2010.9 - 2014.7
 
 Work experience
 ======
+* PhD Researcher - AI Engineering & LLM Systems, 2019.09 - present
+  * VU Amsterdam, Amsterdam, Netherlands
+  * Developed applied AI systems for question answering, retrieval, and recommendation over scientific knowledge, covering problem definition, data preparation, model and retrieval design, evaluation, error analysis, and iterative improvement.
+  * Developed FIRESPARQL, an LLM-based natural-language-to-SPARQL framework; fine-tuned Llama 3 8B with LoRA using Hugging Face and LLaMA-Factory, and built reproducible inference and evaluation pipelines for the SciQA Benchmark.
+  * Built ontology-grounded RAG workflows using GPT-4, embedding-based retrieval, and structured prompts to generate competency questions across multiple domains.
+  * Designed a property-guided subgraph retrieval framework combining semantic entity and property alignment, graph traversal, LLM-based filtering, and structured evidence selection for multi-hop knowledge graph question answering.
+  * Engineered batch pipelines to execute and evaluate 2,600+ SPARQL queries on million-scale RDF data using Python, QLever, Virtuoso, Docker, and HPC/SLURM.
+  * Built a scholarly paper recommendation pipeline over 100k+ papers, including parsing, preprocessing, embeddings, user profile generation, ranking, and evaluation.
+
 * Visiting PhD Researcher, 2025.08 - 2025.10
   * Open University, United Kingdom
+  * Worked on GraphRAG-related research, focusing on retrieval and reasoning over graph-structured knowledge.
 
 * Data Analyst User Growth (Full-time Internship), 2018.9 - 2019.1
   * Beijing Didi Chuxing Technology Co., Ltd., Beijing, China 
